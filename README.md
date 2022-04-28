@@ -1,7 +1,7 @@
 Hi 👋 My name is Carl R. Walker Jr.
 ===================================
 
-Software engineer | Agile PM | Cybersecurity
+Software Engineer | Agile PM | Cybersecurity
 --------------------------------------------
 
 I am a highly logical and flexible professional with a passion for determining efficient solutions to complex problems. Throughout my career, I’ve developed an aptitude for strategic planning and project management while using agile methodologies to see my pro-jects to completion. I have also emersed myself in learning Cybersecurity and Software Development skills to effectively communicate with development and business teams alike and excel in managing priority shifts within multiple projects.
