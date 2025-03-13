@@ -8,7 +8,7 @@ I am a highly logical and flexible professional with a passion for determining e
 
 * 🌍  I'm based in Northern, Virginia
 * ✉️  You can contact me at [cwalker159@gmail.com](mailto:cwalker159@gmail.com)
-* 🧠  I'm learning Javascript, Backend Engineering
+* 🧠  I'm learning Javascript, Backend Engineering, & Python
 * 🤝  I'm open to collaborating on Open-Source Projects,
 * ⚡  Open to new positions and connecting with awesome people.
 
